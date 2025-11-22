@@ -1,3 +1,6 @@
+# Tic Tac Toe Game
+# Author: Sreenithi
+# Description: A simple 2-player console-based Tic Tac Toe game.
 board=[" " for i in range(9)]
 
 def print_board():
