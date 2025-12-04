@@ -3,7 +3,7 @@
 A simple Python console-based Tic Tac Toe game with turn-based gameplay and automatic winner detection.  
 This program allows two players (X and O) to play on the same computer.
 
-## 🎮 Features
+## Features
 
 - Player turns (X and O)
 - Validates user input
@@ -13,7 +13,7 @@ This program allows two players (X and O) to play on the same computer.
 
 
 
-## 🧠 Concepts Used
+## Concepts Used
 
 This project demonstrates basic Python concepts:
 
@@ -24,9 +24,7 @@ This project demonstrates basic Python concepts:
 - Game logic  
 
 
-
-
-## 🚀 How to Run
+## How to Run
 
 Make sure you have Python installed, then run:
 
